@@ -1,0 +1,18 @@
+# Ignore everything by default ...
+/*
+
+# ... and only publish what belongs to the submission
+!/.gitignore
+!/README.md
+!/DATA.md
+!/RESULTS.md
+!/Recommendation.md
+!/requirements.txt
+
+!/notebooks/
+/notebooks/*
+!/notebooks/*.ipynb
+
+!/figures/
+/figures/*
+!/figures/*.png
